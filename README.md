@@ -1,5 +1,3 @@
-### Start
-
 See the `conf.py`:
 ```
 scheme = 'B'
@@ -19,6 +17,9 @@ schemeB = {
     'fill_color': [227, 234, 244]
 }
 ```
-You can choose scheme whcih you want.
-The A is useof openCV inpaint or model(LaMa); And B is useof openCV but no inpaint.
-When you finished the conf, run `python main.py`.
+You can choose scheme whcih you want.<br>
+The A is useof openCV inpaint or model(LaMa); And B is useof openCV but no inpaint.<br>
+When you finished the conf, run `python main.py`.<br>
+<br>
+If you have a better scheme, please connect me.<br>
+Email: xiadongliang88@163.com<br>
