@@ -1,0 +1,7 @@
+numpy==2.2.4
+opencv_python==4.11.0.86
+opencv_python_headless==4.11.0.86
+Pillow==9.5.0
+Pillow==11.1.0
+simple_lama_inpainting==0.1.2
+ultralytics==8.3.85
