@@ -25,4 +25,4 @@ if __name__ == '__main__':
         run_script("schemeB.py")
 
     else:
-        print('请检查配置文件conf.py中的scheme字段')
+        print('Please check the scheme field in the configuration file conf.py')

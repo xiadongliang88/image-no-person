@@ -1,4 +1,4 @@
-scheme = 'B'
+scheme = 'A'
 
 schemeA = {
     'image_name': 'd1.jpg',
